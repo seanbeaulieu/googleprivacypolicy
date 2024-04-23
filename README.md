@@ -1,4 +1,4 @@
-# googleprivacypolicy
+# Fast++ Privacy Policy
 privacy policy for google chrome extensions
 
 1. No Collection of Personal Data
